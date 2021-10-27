@@ -45,8 +45,8 @@ class _HomepageState extends State<Homepage> {
       floatingActionButton: FloatingActionButton(onPressed: (){},
       child: Icon(Icons.ac_unit),
       backgroundColor: Colors.green,
-    foregroundColor:Colors.pink,
-    ),
+    foregroundColor:Colors.pink,),
+    );
 
 
   }
